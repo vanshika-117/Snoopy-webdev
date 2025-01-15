@@ -19,6 +19,9 @@ body {
   box-shadow: 2px 2px 2px 1px black;
   font-size: 18px;
 }
+.list-group-item:hover {
+  color: rgb(199, 20, 47);
+}
 
 @media (min-width: 175px) and (max-width: 625px) {
   .container {
